@@ -1,2 +1,2 @@
 # .NET_Core
-Exemplos de código .Net Core
+Examples of .Net Core code
