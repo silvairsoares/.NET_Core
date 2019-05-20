@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ASP.NET Core API with Swagger</name>
+    </assembly>
+    <members>
+        <member name="M:ASP.NET_Core_API_with_Swagger.Controllers.ValuesController.Get">
+            <summary>
+            Get all values
+            </summary>
+        </member>
+        <member name="M:ASP.NET_Core_API_with_Swagger.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            Gets a specific value
+            </summary>
+        </member>
+        <member name="M:ASP.NET_Core_API_with_Swagger.Controllers.ValuesController.Post(System.String)">
+            <summary>
+            Include a new value
+            </summary>
+        </member>
+        <member name="M:ASP.NET_Core_API_with_Swagger.Controllers.ValuesController.Put(System.Int32,System.String)">
+            <summary>
+            Updates a specific value
+            </summary>
+        </member>
+        <member name="M:ASP.NET_Core_API_with_Swagger.Controllers.ValuesController.Delete(System.Int32)">
+            <summary>
+            Delete a specific value
+            </summary>
+        </member>
+    </members>
+</doc>
